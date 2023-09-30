@@ -1,0 +1,15 @@
+5 Display Catodo Comun
+Sensor infrarrojo
+5 resistencias 1 k ohm
+5 resistencias 680 ohm
+5 push button
+4 n22222
+5 resistencias de 100 ohm
+20 reistencias de 330 ohm
+1 L293D
+1 MOC3021
+3 MICROFONOS
+5 resistencias de 100 k ohm
+10 leds de distinto color a azul
+3 LM35
+2 Matriz de led 7*5 
